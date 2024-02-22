@@ -1,1 +1,1 @@
-# Ecommerce Design created with React responsive with animations 
+# Ecommerce Home Page created with React responsive with animations 
